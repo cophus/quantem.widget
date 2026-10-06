@@ -24,6 +24,7 @@ _LAZY_EXPORTS: dict[str, tuple[str, str | None]] = {
     "Show2D": ("quantem.widget.show2d", "Show2D"),
     "Show3D": ("quantem.widget.show3d", "Show3D"),
     "Show3DSlices": ("quantem.widget.show3dslices", "Show3DSlices"),
+    "ShowAtoms3D": ("quantem.widget.show_atoms3d", "ShowAtoms3D"),
     "Show4DSTEM": ("quantem.widget.show4dstem_factory", "Show4DSTEM"),
     "ShowDiffraction": ("quantem.widget.showdiffraction", "ShowDiffraction"),
     "Phase": ("quantem.widget.showdiffraction", "Phase"),

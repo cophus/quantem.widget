@@ -52,6 +52,7 @@ readers and test agents.
 | [ShowPtycho](showptycho) | `quantem.widget.ShowPtycho` | ptychography state JSON, WebGPU folder export with BF-indexed `G(k)` payload |
 | [ShowDiffraction](showdiffraction) | `quantem.widget.showdiffraction.ShowDiffraction` | state JSON, PNG, interactive HTML |
 | [ChooseLattice](choose-lattice) | `quantem.widget.choose_lattice.ChooseLattice` | state JSON (`save_state=True`) |
+| [ShowAtoms3D](showatoms3d) | `quantem.widget.show_atoms3d.ShowAtoms3D` | none yet |
 | [ShowFolder](showfolder) | `quantem.widget.showfolder.ShowFolder` | selection JSON for selected microscopy files and folders |
 
 All widget-level HTML exports follow the [HTML export](html-export) protocol.
